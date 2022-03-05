@@ -3,7 +3,7 @@ name = "NOO-NAME"
 version = "NOO-VERSION"
 description = "NOO-DESCRIPTION"
 authors = ["NOO-AUTHOR"]
-license = "NOO-LICENSE"
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "NOO-PYTHON-VERSION"
